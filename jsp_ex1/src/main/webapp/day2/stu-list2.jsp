@@ -18,9 +18,11 @@
 
 
 <style>
-	table, th, tr, td{
-		border: 1px solid #777;
-		padding: 5px;
+	table, th,  tr,  td{
+	 border : 1px solid black ;
+	 border-collapse: collapse;
+	 padding: 10px;
+	 text-align: center;
 	}
 </style>
 
