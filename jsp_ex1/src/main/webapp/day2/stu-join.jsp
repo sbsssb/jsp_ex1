@@ -31,7 +31,7 @@
 </html>
 
 <script>
-	let checkFlg = true;
+	let checkFlg = false;
 	
 	function fnStuInsert() {
 		let stu = document.stu;
